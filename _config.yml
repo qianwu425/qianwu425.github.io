@@ -1,7 +1,7 @@
 title: Qian Wu Blog
 description: Welcome to my coding blog! As a professional programmer, I share my expertise in coding, creating, installing OS, CLI, frontend, backend, and more. Join me on my journey to explore the fascinating world of programming, and let's learn together.
 
-url: https://qian-wu-blog.netlify.app
+url: https://qianwublog.me/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -25,18 +25,18 @@ navigation:
    url: /contact
 
 social:
- # github: brianmaierjr
- # twitter: brianmaierjr
- # facebook: brianmaierjr
+ # github: qianwublog
+ # twitter: qianwublog
+ # facebook: qianwublog
  # email: brimaidesigns@gmail.com
- # linkedin: brianmaierjr
+ # linkedin: qianwublog
 
 google_analytics: "G-7X7TWLX6FS"
 
 disqus:
- shortname: brianmaierjr
+ shortname: qianwublog
 
-url: "https://qianwublog.me/"
+url: "https://qianwublog.me"
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
